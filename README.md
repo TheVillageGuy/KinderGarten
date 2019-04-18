@@ -1,5 +1,5 @@
 # KinderGarten
-Kinder Garten mod for RimWorld
+KinderGarten mod for RimWorld
 
 All weapons have 0 power. In this context, traps and turrets are not weapons.
 Weapon textures/descriptions/sounds have been altered or replaced to make them look like toys.
