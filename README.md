@@ -2,7 +2,7 @@
 KinderGarten mod for RimWorld
 
 All weapons are and look like toys and have 0 power. In this context, traps and turrets are not weapons.
-Weapon textures/descriptions/sounds have been altered or replaced to make them look like toys.
+Weapon textures/descriptions/sounds have been altered or replaced to make them resemble toys.
 Some weapons can still start fires and can still explode when burning.
 
 This requires a completely different style of playing rimworld as only melee fighting has effect. Turrets are not modified so there is at least a little challenge when attacking enemy bases. Decide for yourself if you want to use them, just like traps, depending on how difficult you want the game to be. 
