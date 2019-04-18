@@ -11,4 +11,6 @@ This mod works, but the visuals/sounds/texts are not perfect, I have come to the
 
 It should be savegame compatible, add and remove. If not let me know.
 
+A big part of the weapon textures are based on the anilla Weapons Retextured mod by Luizi, some fancy textures he made there.
+
 Find me on http://reddit.com/r/RimWorldPorn
