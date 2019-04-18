@@ -1,7 +1,7 @@
 # KinderGarten
 KinderGarten mod for RimWorld
 
-All weapons have 0 power. In this context, traps and turrets are not weapons.
+All weapons are and look like toys and have 0 power. In this context, traps and turrets are not weapons.
 Weapon textures/descriptions/sounds have been altered or replaced to make them look like toys.
 Some weapons can still start fires and can still explode when burning.
 
@@ -11,6 +11,6 @@ This mod works, but the visuals/sounds/texts are not perfect, I have come to the
 
 It should be savegame compatible, add and remove. If not let me know.
 
-A big part of the weapon textures are based on the anilla Weapons Retextured mod by Luizi, some fancy textures he made there.
+A big part of the weapon textures are based on the Vanilla Weapons Retextured mod by Luizi, some fancy textures he made there.
 
 Find me on http://reddit.com/r/RimWorldPorn
