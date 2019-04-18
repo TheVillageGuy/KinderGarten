@@ -11,4 +11,4 @@ This mod works, but the visuals/sounds/texts are not perfect, I have come to the
 
 It should be savegame compatible, add and remove. If not let me know.
 
-Find me on reddit.com/r/RimWorldPorn
+Find me on http://reddit.com/r/RimWorldPorn
